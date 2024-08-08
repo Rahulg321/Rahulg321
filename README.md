@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on a project website for The Techno Club of my College.<br>👯 I’m looking to collaborate on projects related to Web Development and MERN stack in any way.<br>🤝 I’m looking for help with in my coding journey. I am working on web development using MERN and I would appreciate inputs which would help me improve my skills and make better quality projects<br>🌱 I’m currently learning Web Development using the MERN stack<br>💬 Ask me about topics related to Gaming, Sports and Coding. I'll try my best to answer those.<br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-gupta-86194a213) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rg5353070) 
 

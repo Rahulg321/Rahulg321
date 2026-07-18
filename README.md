@@ -1,6 +1,4 @@
 # 💫 About Me:
-Developer building modern  applications and business software.
-
 Currently interested in:
 
 - Distributed Systems

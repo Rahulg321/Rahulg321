@@ -1,6 +1,16 @@
 # 💫 About Me:
-Full Stack Developer 
+Developer building modern  applications and business software.
 
+Currently interested in:
+
+- Distributed Systems
+- Rust
+- Systems Programming
+- Software Architecture
+- AI Applications
+- Cloud Infrastructure
+
+I enjoy building products, learning how systems work under the hood, and sharing what I learn through side projects and writing.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rahulgupta321_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rg5353070) 

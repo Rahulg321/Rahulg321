@@ -1,4 +1,3 @@
-# 💫 About Me:
 Currently interested in:
 
 - Distributed Systems
